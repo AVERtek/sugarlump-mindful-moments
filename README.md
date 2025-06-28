@@ -1,2 +1,3 @@
-# sugarlump-mindful-moments
-Sugarlump Mindful Moments AR Kindness Challenge.
+surgarlump mindful moments
+Augmented Reality
+
